@@ -1,0 +1,14 @@
+.carousel-caption {
+  width: 60%;
+  left: 20%;
+  right: 20%;
+  top: 20%;
+}
+
+.info-carousel {
+  opacity: 0.8;
+  padding: 60px;
+  background-color: white;
+  border-radius: 10px !important;
+  color: #61909a;
+}
